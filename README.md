@@ -1,3 +1,3 @@
-# MAXIMUM-AVERAGE-SUBARRAY-I
+# problems
 MY LEETCODE PROBLEMS
 #hi hello
